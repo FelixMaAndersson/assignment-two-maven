@@ -1,0 +1,50 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'21'
+-sourcepath
+'/mnt/c/Users/felix/Documents/java_utbildning/se/yrgo/utvecklingsverktyg/assignments/assignment2/test/test_library/src/main/java:/mnt/c/Users/felix/Documents/java_utbildning/se/yrgo/utvecklingsverktyg/assignments/assignment2/test/test_library/target/generated-sources/annotations'
+-author
+-bottom
+'Copyright &#169; 2025. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/mnt/c/Users/felix/Documents/java_utbildning/se/yrgo/utvecklingsverktyg/assignments/assignment2/test/test_library/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'test_library 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'test_library 1.0-SNAPSHOT API'
+models
+ui
+utilities
+/mnt/c/Users/felix/Documents/java_utbildning/se/yrgo/utvecklingsverktyg/assignments/assignment2/test/test_library/src/main/java = 1763643423206
+/mnt/c/Users/felix/Documents/java_utbildning/se/yrgo/utvecklingsverktyg/assignments/assignment2/test/test_library/target/generated-sources/annotations = 1763716309474
+/mnt/c/Users/felix/Documents/java_utbildning/se/yrgo/utvecklingsverktyg/assignments/assignment2/test/test_library/target/apidocs/allclasses-index.html = 1763716314799
+/mnt/c/Users/felix/Documents/java_utbildning/se/yrgo/utvecklingsverktyg/assignments/assignment2/test/test_library/target/apidocs/allpackages-index.html = 1763716314804
+/mnt/c/Users/felix/Documents/java_utbildning/se/yrgo/utvecklingsverktyg/assignments/assignment2/test/test_library/target/apidocs/copy.svg = 1763716314870
+/mnt/c/Users/felix/Documents/java_utbildning/se/yrgo/utvecklingsverktyg/assignments/assignment2/test/test_library/target/apidocs/element-list = 1763716314554
+/mnt/c/Users/felix/Documents/java_utbildning/se/yrgo/utvecklingsverktyg/assignments/assignment2/test/test_library/target/apidocs/help-doc.html = 1763716314849
+/mnt/c/Users/felix/Documents/java_utbildning/se/yrgo/utvecklingsverktyg/assignments/assignment2/test/test_library/target/apidocs/index-all.html = 1763716314833
+/mnt/c/Users/felix/Documents/java_utbildning/se/yrgo/utvecklingsverktyg/assignments/assignment2/test/test_library/target/apidocs/index.html = 1763716314777
+/mnt/c/Users/felix/Documents/java_utbildning/se/yrgo/utvecklingsverktyg/assignments/assignment2/test/test_library/target/apidocs/link.svg = 1763716314874
+/mnt/c/Users/felix/Documents/java_utbildning/se/yrgo/utvecklingsverktyg/assignments/assignment2/test/test_library/target/apidocs/member-search-index.js = 1763716314815
+/mnt/c/Users/felix/Documents/java_utbildning/se/yrgo/utvecklingsverktyg/assignments/assignment2/test/test_library/target/apidocs/module-search-index.js = 1763716314808
+/mnt/c/Users/felix/Documents/java_utbildning/se/yrgo/utvecklingsverktyg/assignments/assignment2/test/test_library/target/apidocs/overview-summary.html = 1763716314841
+/mnt/c/Users/felix/Documents/java_utbildning/se/yrgo/utvecklingsverktyg/assignments/assignment2/test/test_library/target/apidocs/overview-tree.html = 1763716314769
+/mnt/c/Users/felix/Documents/java_utbildning/se/yrgo/utvecklingsverktyg/assignments/assignment2/test/test_library/target/apidocs/package-search-index.js = 1763716314809
+/mnt/c/Users/felix/Documents/java_utbildning/se/yrgo/utvecklingsverktyg/assignments/assignment2/test/test_library/target/apidocs/script.js = 1763716314860
+/mnt/c/Users/felix/Documents/java_utbildning/se/yrgo/utvecklingsverktyg/assignments/assignment2/test/test_library/target/apidocs/search-page.js = 1763716314882
+/mnt/c/Users/felix/Documents/java_utbildning/se/yrgo/utvecklingsverktyg/assignments/assignment2/test/test_library/target/apidocs/search.html = 1763716314837
+/mnt/c/Users/felix/Documents/java_utbildning/se/yrgo/utvecklingsverktyg/assignments/assignment2/test/test_library/target/apidocs/search.js = 1763716314879
+/mnt/c/Users/felix/Documents/java_utbildning/se/yrgo/utvecklingsverktyg/assignments/assignment2/test/test_library/target/apidocs/serialized-form.html = 1763716314637
+/mnt/c/Users/felix/Documents/java_utbildning/se/yrgo/utvecklingsverktyg/assignments/assignment2/test/test_library/target/apidocs/stylesheet.css = 1763716314854
+/mnt/c/Users/felix/Documents/java_utbildning/se/yrgo/utvecklingsverktyg/assignments/assignment2/test/test_library/target/apidocs/tag-search-index.js = 1763716314818
+/mnt/c/Users/felix/Documents/java_utbildning/se/yrgo/utvecklingsverktyg/assignments/assignment2/test/test_library/target/apidocs/type-search-index.js = 1763716314812

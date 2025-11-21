@@ -1,0 +1,9 @@
+These are all the goals i needed to build, test, packaging, javadoc and test reporting:
+
+mvn test - compiles test code, runs the JUnit tests and creates test reports in target/surefire-reports
+mvn clean - cleans the project (deletes target/) for a fresh build
+mvn package - compiles, test and creates .jar
+mvn javadoc:javadoc - creates HTML Javadoc in target/site/apidocs/
+
+build (in this instance when it's only a small school project):
+mvn clean package - build project and creates .JAR-file (clean -> compiles -> tests -> packs .jar)
