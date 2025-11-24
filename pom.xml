@@ -15,7 +15,7 @@
     </properties>
 
     <build>
-        <finalName>FelixAnderssonInl2</finalName>
+        <finalName>Library</finalName>
         <plugins>
 
             <plugin>
